@@ -12,6 +12,7 @@ def move(my_list, direction):
 return my_list
 
 
+
 def approximate_pi(n_terms):
     leibniz_series = []
     for n in range (n_terms):
